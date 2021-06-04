@@ -4,10 +4,9 @@
 
 ### Front-End Development Libraries
 
-This is a project to build a Random Quote Machine.
-Using ReactJS and customized css and also using SASS.
+This is a project to build a Random Quote Machine, I've decided to ReactJS and customized css using SASS.
 
-This is a organize code build with best practices while in codepen you may see the code in whole.
+This is a organized code build with best practices applied, while in codepen you may see the code in a whole.
 You may download this file for your referrence.
 
 ### Preview:
@@ -18,15 +17,10 @@ To preview this project, please visit my codepen:
 
 ## Pre-requisite:
 
-You must knowledgable in Javascript ES6+, React.
-And your computer must also have npm (Node Package Manager)
+You must knowledgable in Javascript ES6+, React. And your computer must also have npm (Node Package Manager) to run the app
 
 ## Guidelines:
 
-To run the app start:
+To run the app:
 
-Open the folder using visual studio and run the terminal with `npm start`
-
-
-
-
+Open the folder using VScode and Go to the terminal and type `npm start`
