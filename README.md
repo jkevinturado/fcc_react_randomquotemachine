@@ -18,7 +18,7 @@ And your computer must also have npm (Node Package Manager)
 
 To run the app start:
 
-### `npm start`
+Open the folder using visual studio and run the terminal with `npm start`
 
 ### Preview:
 
