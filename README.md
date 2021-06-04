@@ -1,18 +1,18 @@
 # FreeCodeCamp.org Projects
 
-##by Jan Kevin Turado
+## by Jan Kevin Turado
 
-###Front-End Development Libraries
+### Front-End Development Libraries
 
 This is a project to build a Random Quote Machine.
 Using ReactJS and customized css and also using SASS.
 
 You may download this file for your referrence.
 
-##Pre-requisite:
+## Pre-requisite:
 
 You must knowledgable in Javascript ES6+, React.
-And your computer must have npm (Node Package Manager)
+And your computer must also have npm (Node Package Manager)
 
 ## Guidelines:
 
