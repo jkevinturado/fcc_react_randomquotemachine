@@ -20,4 +20,10 @@ To run the app start:
 
 ### `npm start`
 
+### Preview:
+
+To preview this project, please visit my codepen:
+<a href="https://codepen.io/jkevinturado/full/jOBzZpr" target="_blank">Click Here</a>
+
+
 
