@@ -1,5 +1,6 @@
 # FreeCodeCamp.org Projects
-##Front-End Development Libraries
+##by Kevin Turado
+###Front-End Development Libraries
 
 This is a project to build a Random Quote Machine.
 Using ReactJS and customized css and also using SASS.
